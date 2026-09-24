@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="GHBUQOUa_ZaqKq87YkBQ">
-    <mxGraphModel dx="2060" dy="1100" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1471" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -235,7 +235,7 @@
         <mxCell id="dqpkLlftCTf4umJ7zXzL-130" parent="dqpkLlftCTf4umJ7zXzL-200" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#CCE5FF;fontColor=#0079FE;shadow=0;glass=0;" value="ppt排版库" vertex="1">
           <mxGeometry height="25" width="85" x="100.99999999999977" y="122" as="geometry" />
         </mxCell>
-        <mxCell id="dqpkLlftCTf4umJ7zXzL-404" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" value="&lt;b&gt;系统整体功能架构图&lt;/b&gt;" vertex="1">
+        <mxCell id="dqpkLlftCTf4umJ7zXzL-404" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" value="&lt;b&gt;网站系统整体功能结构图&lt;/b&gt;" vertex="1">
           <mxGeometry height="40" width="372.5" x="281.25" y="20" as="geometry" />
         </mxCell>
         <mxCell id="dqpkLlftCTf4umJ7zXzL-46" parent="1" style="shape=mxgraph.signs.people.man_1;html=1;pointerEvents=1;fillColor=#FFFFFF;strokeColor=#999999;verticalLabelPosition=bottom;verticalAlign=top;align=center;shadow=0;" value="访客" vertex="1">
